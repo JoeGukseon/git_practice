@@ -1,1 +1,3 @@
-hello codesates
+hello codesate
+
+git is god.
